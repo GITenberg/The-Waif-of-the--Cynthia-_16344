@@ -1,0 +1,48 @@
+_repo: The-Waif-of-the--Cynthia-_16344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Laurie, André
+    aliases:
+    - Laurie, A. (André)
+    - Lori, Andre
+    birthdate: 1844
+    deathdate: 1909
+    gutenberg_agent_id: '6643'
+    url: http://www.gutenberg.org/2009/agents/6643
+  - agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: Believed to be a collaboration between science fiction luminary Jules
+  Verne and French writer Andre Laurie (the pen name of politician Paschal Grousset),
+  The Waif of the Cynthia skillfully combines action-adventure with a beguiling mystery.
+  A respected and affluent Norwegian doctor takes an interest in the case of the brilliant
+  orphan Erik and vows not only to support him and guide his education, but also to
+  help Erik discover his true origins.
+gutenberg_issued: '2005-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Arctic regions -- Discovery and exploration -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+title: The Waif of the "Cynthia"
+url: http://www.gutenberg.org/ebooks/16344
