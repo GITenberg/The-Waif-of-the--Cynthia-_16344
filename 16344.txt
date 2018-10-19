@@ -3962,7 +3962,7 @@ Johnny Bowles, and his declaring that Patrick O'Donoghan was dead, these
 are superabundant proofs!"
 
 They were both silent, reflecting upon the possible consequences of this
-discovery."
+discovery.
 
 "How can we go so far in search of him?" said the doctor, at length.
 
@@ -5023,7 +5023,7 @@ centuries!"
 light be mistaken for another?" asked Mr. Bredejord.
 
 "That is scarcely possible in a voyage as short as ours has been since
-we left Brest," said Erik. "Remember that we have not lost, sight of
+we left Brest," said Erik. "Remember that we have not lost sight of
 land for a moment, and that we have been passing from one point to
 another. We can only suppose that one of the lights indicated on the
 chart has not been lighted or that some supplementary light has been
@@ -5533,7 +5533,7 @@ the same latitude as Bergen. But whilst the southern port of Norway is
 in April covered with green forests and fruit trees, and even cultivated
 vines trained upon trellises above green meadows, Greenland is still in
 May covered with ice and snow, without a tree to enliven the monotony.
-The shape of the Norwegian coast, deeply indented by forests and
+The shape of the Norwegian coast, deeply indented by fjords and
 sheltered by chains of islands, which contribute almost as much as the
 warmth of the Gulf Stream to raise the temperature of the country.
 Greenland, on the contrary, has a low regular coast and receives the
@@ -7351,7 +7351,7 @@ society, the same person who had been at Brest when the "Alaska" reached
 that place.
 
 This was doubtless the reason why Erik's name attracted his notice, but
-while reading the article carefully which contained the biography or the
+while reading the article carefully which contained the biography for the
 young Swedish navigator, he was startled. Then he read it again
 carefully, and little by little an intense pallor spread over his face,
 which was always pale. His hands trembled nervously, and his uneasiness
@@ -7771,7 +7771,7 @@ years after his marriage and six months after the birth of my grandson,
 George was found dead near one of the wells--asphyxiated, the doctors
 said, by gas. I had left the United States upon my nomination as consul
 to Riga. The business relating to the partnership was left to an
-attorney to settle. Noah Jones behaved vert well, and agreed to
+attorney to settle. Noah Jones behaved very well, and agreed to
 all the arrangements that were made for the benefit of my daughter. He
 agreed to continue the work, and pay every six months into the Central
 Bank of New York that part of the net profits which belonged to the infant.
